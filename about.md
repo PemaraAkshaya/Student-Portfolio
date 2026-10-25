@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-I am **Your Name**, a B.Tech student in Computer Science and Engineering at **Your College Name**.
+I am **Pemara Akshaya**, a B.Tech student in Artificial Intelligence and Machine Learning at **Aditya University**.
 
 ## Career Objective
 To begin my career as a software developer, apply my programming and problem-solving skills, and continue learning through real-world projects.

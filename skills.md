@@ -3,14 +3,11 @@
 Replace these examples with skills you can confidently discuss in an interview.
 
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
 - C — Beginner
 
 ## Web Technologies
 - HTML
 - CSS
-- JavaScript (currently learning)
 
 ## Developer Tools
 - Git
@@ -21,3 +18,4 @@ Replace these examples with skills you can confidently discuss in an interview.
 - Data Structures and Algorithms
 - SQL and database fundamentals
 - Testing and debugging
+- Build full-stack projects.

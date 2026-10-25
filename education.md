@@ -1,10 +1,9 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Branch:** Artificial intelligence and Machine Learning
+- **Institution:** Aditya University
+- **Study period:** 2026–2030
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -14,5 +13,4 @@
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Completed Git and GitHub practical training
