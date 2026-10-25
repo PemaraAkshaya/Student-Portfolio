@@ -1,26 +1,15 @@
 # Projects
 
-Add clear, honest descriptions of academic and personal projects.
-
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
-
-## Project 2: Personal Portfolio Website
+## Project 1: Student Portfolio Website
 - **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+- **Solution:** A webpage with sections for about, skills, projects and contact details.
+- **Technologies:** HTML, CSS, Git, GitHub
+- **My contribution:** Customised the content and managed it using Git and GitHub.
+- **Possible improvement:** Add animations and a contact form.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+## Project 2: Calculator App
+- **Problem:** People need a quick tool for basic calculations.
+- **Solution:** A simple calculator that runs in the browser.
+- **Technologies:** HTML, CSS, JavaScript
+- **My contribution:** Built the layout and wrote the calculation logic.
+- **Possible improvement:** Add a history feature and scientific functions.
